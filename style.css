@@ -20,7 +20,7 @@ footer {
   font-size: 14px;
 }
 a {
-  color: #885df1;
+  color: #f65282;
   cursor: pointer;
 }
 header {
@@ -30,7 +30,7 @@ header {
 }
 .heading {
   text-align: center;
-  color: #885df1;
+  color: #f65282;
 }
 .search-input {
   background-color: #f9f7fe;
@@ -41,7 +41,7 @@ header {
   padding: 15px 20px;
 }
 .submit-btn {
-  background: #885df1;
+  background: #f65282;
   padding: 15px 30px;
   border: none;
   font-size: 16px;
@@ -72,6 +72,7 @@ header {
 }
 .current-temp-icon {
   font-size: 50px;
+  color: #f65282;
 }
 .current-temp {
   font-size: 88px;
@@ -81,4 +82,5 @@ header {
 .current-temp-unit {
   margin-top: 6px;
   font-size: 28px;
+  font-family: "Signika Negative";
 }
