@@ -67,3 +67,18 @@ header {
   line-height: 24px;
   font-weight: 500;
 }
+.temperature-container {
+  display: flex;
+}
+.current-temp-icon {
+  font-size: 50px;
+}
+.current-temp {
+  font-size: 88px;
+  line-height: 88px;
+  font-weight: bold;
+}
+.current-temp-unit {
+  margin-top: 6px;
+  font-size: 28px;
+}
