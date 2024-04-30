@@ -1,0 +1,9 @@
+body {
+  background-color: #f9f7fe;
+  display: block;
+  margin: 8px;
+}
+.weather-container {
+  max-width: 600px;
+  background: white;
+}
