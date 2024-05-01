@@ -23,20 +23,21 @@
       </div>
       <header>
         <h1 class="heading">Weather App</h1>
-        <form>
+        <form id="search-form">
           <input
             type="search"
             placeholder="Enter your name"
             required
             class="search-input"
+            id="search-input"
           />
-          <input type="submit" class="submit-btn" />
+          <input type="submit" class="submit-btn" id="submit-btn" />
         </form>
       </header>
       <main>
         <div class="app-details">
           <div>
-            <h1 class="current-city">Durban</h1>
+            <h1 class="current-city" id="current-city">Durban</h1>
             <p class="current-city-details">
               <span class="time"
                 >Wednesday <span class="pink-text">00:53</span>, light intensity
